@@ -29,4 +29,4 @@ Simulate policies and evaluate their potential impact.
 
 ## License
 
-This project is for educational purposes as part of the CSE572 course. ```
+This project is for educational purposes as part of the CSE572 course.
